@@ -1,0 +1,20 @@
+{
+  "name": "MyTypeScripy",
+  "homepage": "https://github.com/stdioh321/typescript",
+  "authors": [
+    "stdioh321 <diaslinoh@gmail.com>"
+  ],
+  "description": "Yesssss!!!!!",
+  "main": "index.html",
+  "keywords": [
+    "Typescruot"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
